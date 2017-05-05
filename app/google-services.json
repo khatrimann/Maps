@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "459573438158",
+    "firebase_url": "https://mapactivity-d7943.firebaseio.com",
+    "project_id": "mapactivity-d7943",
+    "storage_bucket": "mapactivity-d7943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459573438158:android:ac7e09d148b74fd7",
+        "android_client_info": {
+          "package_name": "com.example.khatrimann.map_activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459573438158-ffcq75f552dlak85nc8u9oj0vte70lrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJFcV56uNMGlq_uTGFZDw6s_jaddTCKV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
